@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "username",
+      "type": "text",
+      "placeholder": "የተጠቃሚ ስም",
+      "label": "የተጠቃሚ ስም"
+    },
+    {
+      "id": 2,
+      "name": "email",
+      "type": "email",
+      "placeholder": "ኢሜይል",
+      "label": "ኢሜይል"
+    },
+    {
+      "id": 3,
+      "name": "birthday",
+      "type": "txt",
+      "placeholder": "የልደት ቀን",
+      "label": "የልደት ቀን"
+    },
+    {
+      "id": 4,
+      "name": "password",
+      "type": "password",
+      "placeholder": "የይለፍ ቃል",
+      "label": "የይለፍ ቃል"
+    },
+    {
+      "id": 5,
+      "name": "cpassword",
+      "type": "password",
+      "placeholder": "የይለፍ ቃል አረጋግጥ",
+      "label": "የይለፍ ቃል አረጋግጥ"
+    }
+  ],
+
+  "register": [
+    {
+      "register": "ይመዝገብ"
+    }
+  ],
+  "submit": [
+    {
+      "submit": "ያስገቡ"
+    }
+  ]
+}
